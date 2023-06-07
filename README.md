@@ -40,3 +40,8 @@ https://magical-donut-48f8f0.netlify.app/
 - Admin platform
 - Cross platform
 
+
+## Preview
+
+![Screenshot 2023-06-07 192103](https://github.com/Subham-Coder-24/Frontend-Mern-Stack-Ecommerce/assets/85586258/9d1bd66a-8074-46d3-aef5-ed2c4466c973)
+
