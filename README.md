@@ -31,6 +31,7 @@ I'm a full stack developer...
 ## Live link
 
 https://magical-donut-48f8f0.netlify.app/
+https://6513fdf2a2de9b007b0dc8fa--magical-donut-48f8f0.netlify.app/
 
 
 ## Features
